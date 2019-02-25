@@ -1,5 +1,4 @@
-# Awesome-Lists
-Awesome Lists
+
 ## Awesome Lists
 
 * [Kali Linux Tools](http://tools.kali.org/tools-listing) - List of tools present in Kali Linux.
